@@ -7,3 +7,7 @@ You've learned a lot about web development so far. I want you to take a moment t
 ---
 
 Your response goes here!
+1. I don't think I learned any new skills but this was a good refresher. I usually don't memorize html tags and often find myself googling them, so this was a good exercise to cement my knowledge of some basic and fundamental html tags. Also, I learned about strong vs b and em vs i, which I never thought about before.
+2. The project was pretty easy; however, not sure if I did it completely correct. I notice in pdf there is white space on the bottom; however, webpage shows no whitespace. I would ordinarily change css element to add whitespace, but not sure if that is project requirement.
+3.Trying to figure out if I should use b or strong. Didn't think about website disability accessibility before.
+4. Just using my googling skills if there was a tag I forgot. I forgot the sup tag and del tag. 
